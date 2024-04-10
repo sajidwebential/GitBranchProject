@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
     fun devOne() {
         //create dev one
         // commit in second in dev_one
+        // third commit in dev_one
+        // forth commit in dev_one
     }
 }
