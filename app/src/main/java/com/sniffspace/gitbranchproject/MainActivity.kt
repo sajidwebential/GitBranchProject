@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
     fun masterFunction() {
         // comment for master
     }
+
+    fun devOne() {
+        //create dev one
+    }
 }
