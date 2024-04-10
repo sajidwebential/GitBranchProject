@@ -1,5 +1,6 @@
 package com.sniffspace.gitbranchproject
 
+import DataClass
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
