@@ -23,5 +23,8 @@ class MainActivity : AppCompatActivity() {
         // six commit in dev_one
     }
 
+    fun sendData() {
+        val data : DataClass = DataClass("sajid","Ahmedabad")
+    }
 
 }
