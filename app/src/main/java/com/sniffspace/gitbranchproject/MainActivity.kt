@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     fun masterFunction() {
         // comment for master
+        //commit second in master
     }
 
     fun devOne() {
