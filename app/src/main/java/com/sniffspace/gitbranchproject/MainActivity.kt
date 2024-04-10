@@ -28,4 +28,7 @@ class MainActivity : AppCompatActivity() {
         val data : DataClass = DataClass("sajid","Ahmedabad")
     }
 
+    fun developmentOne() {
+        // finst commit in developemnt
+    }
 }
