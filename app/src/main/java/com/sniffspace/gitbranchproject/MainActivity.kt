@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
 
     fun devOne() {
         //create dev one
+        // commit in second in dev_one
     }
 }
