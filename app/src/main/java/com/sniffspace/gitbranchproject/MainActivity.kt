@@ -1,5 +1,6 @@
 package com.sniffspace.gitbranchproject
 
+import DataClass
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
@@ -22,4 +23,9 @@ class MainActivity : AppCompatActivity() {
         // five commit in dev_one
         // six commit in dev_one
     }
+
+    fun sendData() {
+        val data : DataClass = DataClass("sajid","Ahmedabad")
+    }
+
 }
